@@ -1,0 +1,11 @@
+Welcome to the blablabla changelog blablabla I'm happy this new version is finally out blablabla thanks to everyone blablabla.
+
+Changelog from v1.0.0 > v1.0.1:
+• Updated ROM frameworks to XXXX
+• Updated system base to XXXX
+
+On Update from v1.0.0 > v1.2.0:
+• Added a pre-install warning
+• Fixed multiple cards in Credits page
+• Fixed multi-clicks behaviour
+• Reworked changelog parse code
