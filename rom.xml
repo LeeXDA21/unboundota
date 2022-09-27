@@ -1,6 +1,6 @@
 <OnOTAInfo>
   <RomName>nospoiler</RomName>
-  <VersionName>1.0.0</VersionName>
+  <VersionName>2.0.0</VersionName>
   <BuildNumber type="integer">20220927</BuildNumber>
   <DownloadURL><![CDATA[https://speed.hetzner.de/1GB.bin]]></DownloadURL>
   <AndroidVer>13</AndroidVer>
